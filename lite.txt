@@ -2,5 +2,4 @@ vless://4251b809-b55f-43e1-879c-1c3b4f6f3b84@109.248.59.54:23301?type=tcp&encryp
 vless://f6be6d82-89fa-4708-ba19-2ad103448514@109.248.59.54:23304?type=tcp&encryption=none&security=none#%F0%9F%87%BA%F0%9F%87%B8UFO-US
 vless://6a263223-454b-491b-add4-cccaa666c792@109.248.59.54:23305?type=tcp&encryption=none&security=none#%F0%9F%87%B3%F0%9F%87%B1U1HOST-NL
 vless://7c823ea3-cc66-4726-a52d-7c1d98417ea7@109.248.59.54:23303?type=tcp&encryption=none&security=none#%F0%9F%87%B8%F0%9F%87%AA%20VULTR-SW
-vless://3cf8355e-4821-4d00-9f6b-c7f471295588@109.248.59.54:23302?type=tcp&encryption=none&security=none#%F0%9F%87%AB%F0%9F%87%AE%20AEZA-FI
-
+vless://3cf8355e-4821-4d00-9f6b-c7f471295588@109.248.59.54:23302?type=tcp&encryption=none&security=none#%F0%9F%87%AB%F0%9F%87%AEPLAY2GO-FI
