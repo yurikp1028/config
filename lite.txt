@@ -1,6 +1,6 @@
 vless://53c5dd9f-f2f2-4578-b745-e0c1320b43df@144.31.104.5:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=4RbhmGb9UemPZJgOBy3LvKvrrhx9L90gbr5qf1t5Ml4#%F0%9F%87%A9%F0%9F%87%AAU1-DE
 vless://f0f0e0ca-10ff-4d1d-82ad-54f2976c33af@84.252.100.24:23301?type=tcp&encryption=none&security=none#%F0%9F%87%AB%F0%9F%87%B7RANK-FR-DC
-vless://de6e486f-62ca-4a97-ab1a-12c756632ae1@84.252.100.24:23303?type=tcp&encryption=none&security=none#%F0%9F%87%B8%F0%9F%87%AA%20VULTR-SW-Transit
+vless://de6e486f-62ca-4a97-ab1a-12c756632ae1@84.252.100.24:23303?type=tcp&encryption=none&security=none#%F0%9F%87%B8%F0%9F%87%AA%20VULTR-SW-DC
 vless://57f150eb-23e0-4fe3-968b-cebbe07ccf02@109.248.59.54:23302?type=tcp&encryption=none&security=none#%F0%9F%87%AB%F0%9F%87%AE%20Aeza-FI-HR
 vless://7c823ea3-cc66-4726-a52d-7c1d98417ea7@109.248.59.54:23303?type=tcp&encryption=none&security=none#%F0%9F%87%B8%F0%9F%87%AA%20Aeza-SWE-HR
 vless://c8457686-593f-4a10-bbe6-a3d71444a86d@138.124.254.41:443?type=tcp&encryption=none&security=reality&pbk=F_a_WN-J9_5RZgtTsqt2BHWMO_uZ7r5uwSXbWqsn7zQ&fp=chrome&sni=dl.delivery.mp.microsoft.com&sid=68a3&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%94%A5CloudRix-OpenRU
